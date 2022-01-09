@@ -1,5 +1,8 @@
 # Sparlus Go Lang Styling 
 It heavily use [user stylesheet](https://github.com/uber-go/guide/blob/master/style.md#avoid-overly-long-lines)
+
+{{TOC}}
+
 ## Style
 
 ### Avoid overly long lines
